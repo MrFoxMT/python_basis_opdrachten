@@ -12,7 +12,7 @@ Maak van onderstaande waarden een lijst.
 Zorg ervoor dat de lijst wordt geprint.
 
 13  
-"wat een weertje"  
+Print("wat een weertje")  
 12.5  
 8
 
