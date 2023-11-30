@@ -4,13 +4,13 @@
 
 # Hier komt je code...
 x = 1
-y = ...
-print( ... )
+y = 8
+print(x*y)
 
 x = 2
-y = ...
-print( ... )
+y = 90
+print(y/x)
 
 x = 0
-y = ...
-print( ... )
+y = 1
+print(x+y)
