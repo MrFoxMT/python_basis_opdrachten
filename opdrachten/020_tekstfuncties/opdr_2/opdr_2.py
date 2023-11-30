@@ -10,3 +10,4 @@ count = my_list.count("t")
 
 print("De letter t komt " + str(count) + "x voor in my_string")
 
+
