@@ -1,7 +1,11 @@
 # Opdracht 2 berekeningen
-# Naam student:
-# Groep:
+# Naam student: Milan van de Klippe
+# Groep: ITX1
 
 # Hier komt je code...
 
-gasten = ["Jij", ... ]
+gasten = ["Milan", "Paul", "Kees", "Marie", "Hilda"]
+
+del gasten[3]
+gasten.insert(3, 'George')
+print(gasten)
