@@ -1,6 +1,6 @@
 # Opdracht 3 input functie
-# Naam student:
-# Groep:
+# Naam student: Milan van de Klippe
+# Groep: ITX1
 
 # Hier komt je code...
 
