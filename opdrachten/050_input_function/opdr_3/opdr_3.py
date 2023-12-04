@@ -27,9 +27,9 @@ def user_input():
         else:
             print("Please only use Y or N")
 
-print("Bedankt")
+
 
 user_input()
 
 
-
+print("Bedankt")
